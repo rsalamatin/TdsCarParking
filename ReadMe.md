@@ -1,4 +1,4 @@
-# Application to manage a car park interview task
+# Application to manage a car parking
 
 How to use this project
 ------------------------
