@@ -1,0 +1,6 @@
+@TdsCarParkingWebApi_HostAddress = http://localhost:5136
+
+GET {{TdsCarParkingWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
