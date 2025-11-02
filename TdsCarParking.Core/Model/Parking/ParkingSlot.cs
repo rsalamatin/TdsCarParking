@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace TdsCarParking.Core.Model.Parking;
+﻿namespace TdsCarParking.Core.Model.Parking;
 
 public class ParkingSlot
 {

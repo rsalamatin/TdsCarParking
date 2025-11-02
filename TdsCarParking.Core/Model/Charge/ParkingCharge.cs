@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace TdsCarParking.Core.Model.Charge;
+﻿namespace TdsCarParking.Core.Model.Charge;
 
 public class ParkingCharge
 {
